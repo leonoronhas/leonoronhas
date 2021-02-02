@@ -4,8 +4,6 @@
 
 ## Hello there! ✌🏻
 
-My name is Leonardo Noronha Santos! Currently, I am a Software Engineering student working on projects to make sure I am ready to enter this amazing industry.
-
 - 👨🏻‍💻 Working with React.js, React Native, Java, JavaScript, Node.js, Express.js, RESTful API, and MongoDB.
 - 🤘🏻 Soccer lover, add me on Origin (DLeoFC) and let's play some FIFA.
 - 📩 Any help or question? Send me an [e-mail](mailto:dev.leo.santos@gmail.com).
