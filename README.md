@@ -4,5 +4,5 @@
 
 ## Hello there! ✌🏻
 
-- 👨🏻‍💻 Working with React.js, React Native, Java, JavaScript, Node.js, Express.js, RESTful API, and MongoDB.
+- 👨🏻‍💻 Working with AWS S3, AWS EC2, TailwindCSS, Git, Heroku, React.js, React Native, Java, JavaScript, Node.js, Express.js, RESTful API, and MongoDB.
 - 📩 Any help or question? Send me an [e-mail](mailto:dev.leo.santos@gmail.com).
